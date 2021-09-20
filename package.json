@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fastify": "^3.21.3",
+    "fastify-cors": "^6.0.2",
+    "fastify-static": "^4.2.3",
+    "simple-peer": "^9.11.0",
+    "wrtc": "^0.4.7"
+  }
+}
